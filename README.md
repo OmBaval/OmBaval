@@ -8,7 +8,17 @@ I'm all about pushing the boundaries of AI, specializing in:
 - **Data Science & Analytics:** Taming unruly datasets to extract nuggets of wisdom, wielding tools like Jupyter Notebook, Tableau, and Power BI.
 
 ## 💻 Code Wizardry
-My spells are cast in Python, R, C/C++, and Kotlin. As I have done my majority of work in Machine Learning and Deep Learning I have done a lot of work in Python followed by  R in the domain of AI. Additionally, I have written good amount of C++ code for Arduino. As an beginner I had also tried my hands on Android Native develpment and as a result I am known to Kotlin and XML. Apart from these I have  come across HTML, JavaScript, PHP, C and many more...
+My spells are cast in Python, R, C/C++, and Kotlin. As I have done my majority of work in Machine Learning and Deep Learning I have done a lot of work in Python followed by  R in the domain of AI. Additionally, I have written good amount of C++ code for Arduino. As an beginner I had also tried my hands on Android Native develpment and as a result I am known to Kotlin and XML. Apart from these I have  come across HTML, JavaScript, PHP, C and many more...\
+
+## 📜 Certifications
+I've earned my stripes in the realm of AI and beyond. Here are some of my certifications:
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/MPNP3AUB26DS)
+- [Reinforcement Learning Specialization ](https://coursera.org/verify/specialization/QBDVJBLVCNFG)
+- [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://coursera.org/verify/DZSNPNF7CB8P)
+- [Introduction to Machine Learning](http://verify.onwingspan.com)
+- [Introduction to Deep Learning](http://verify.onwingspan.com)
+- [Machine Learning Fast Track](http://verify.iali.in)
+- [Mathematical Thinking in Computer Science](coursera.org/verify/MQZFLHVH4PVZ)
 
 ## 🎓 Teaching the Arcane
 I'm not just a practitioner; I'm a sage passing down arcane knowledge through workshops and seminars.
