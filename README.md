@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm [Your Name], an AI aficionado knee-deep in the trenches of Machine Learning, Deep Learning, and Reinforcement Learning. Welcome to my GitHub playground!
+# Hey there! 👋 I'm Om Baval, an AI aficionado knee-deep in the trenches of Machine Learning, Deep Learning, and Reinforcement Learning. Welcome to my GitHub playground!
 
 
 ## 🚀 In the Code Mines
