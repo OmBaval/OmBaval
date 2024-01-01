@@ -28,6 +28,7 @@ Venturing beyond the ethereal realms of software, I've communed with IoT spirits
 
 ## ⚙️ Connecting the Neural Nodes
 Let's interface in the digital realm:
+- Email: [Email me](ombaval@gmail.com)
 - LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/ombaval)
 
 Feel free to dissect my code scrolls, propose optimizations, or summon me for collaborations. Together, let's script the future of AI sorcery! 🧙‍♂️✨
